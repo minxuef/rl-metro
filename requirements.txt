@@ -1,0 +1,14 @@
+wheel==0.38.4
+setuptools==65.5.0
+numpy
+matplotlib
+opencv-python>=3.0
+gym==0.21.0
+keras==2.11.0
+openpyxl==3.1.2
+pandas==1.5.3
+simpy==4.0.1
+tensorboard==2.11.2
+tensorboardX==2.6
+torch==1.11.0
+stable-baselines3==1.7.0
